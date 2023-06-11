@@ -8,4 +8,5 @@
 #		for information on rule syntax.
 #		See 'man tcpd' for information on tcp_wrappers
 #
-sshd: 85.65.221.244 8.8.8.8
+sshd: 85.65.221.244
+# ALEX
